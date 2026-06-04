@@ -5,10 +5,13 @@
   "observability": {
     "enabled": true
   },
-"assets": {
+  "assets": {
     "directory": "dist"
   },
   "compatibility_flags": [
     "nodejs_compat"
-  ]
+  ],
+  "functions": {
+    "directory": "./functions"
+  }
 }
